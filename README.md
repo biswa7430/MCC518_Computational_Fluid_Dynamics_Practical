@@ -13,7 +13,7 @@
 | 19.08.2024 | 4              | 04_heat_eqn_implicit.cpp       | 38f30c7    |
 | 31.08.2024 | 5              | 05_crank_nicolson.cpp          | 38f30c7    |
 | 02.09.2024 | 6              | 06_crank_nicolson.cpp          | 38f30c7    |
-|            |                |                                |            |
+| 02.09.2024 | 7              | 07_semi_implicit.cpp           |            |
 |            |                |                                |            |
 |            |                |                                |            |
 |            |                |                                |            |
