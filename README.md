@@ -16,7 +16,7 @@
 | 02.09.2024 | 7              | 07_semi_implicit.cpp           | 3478786    |
 | 09.09.2024 | 8              | 08_laplace_equation_2D.cpp     | 366052a    |
 | 23.09.2024 | 9              | 09_laplace_equation_seidal.cpp | bdef9af    |
-|            |                |                                |            |
+| 30.09.2024 | 10             | 10_poission.cpp                | 0758475    |
 |            |                |                                |            |
 |            |                |                                |            |
 |            |                |                                |            |
