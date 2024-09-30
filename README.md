@@ -15,7 +15,7 @@
 | 02.09.2024 | 6              | 06_crank_nicolson.cpp          | 38f30c7    |
 | 02.09.2024 | 7              | 07_semi_implicit.cpp           | 3478786    |
 | 09.09.2024 | 8              | 08_laplace_equation_2D.cpp     | 366052a    |
-|            |                |                                |            |
+| 23.09.2024 | 9              | 09_laplace_equation_seidal.cpp | bdef9af    |
 |            |                |                                |            |
 |            |                |                                |            |
 |            |                |                                |            |
