@@ -17,6 +17,7 @@
 | 09.09.2024 | 8              | 08_laplace_equation_2D.cpp     | 366052a    |
 | 23.09.2024 | 9              | 09_laplace_equation_seidal.cpp | bdef9af    |
 | 30.09.2024 | 10             | 10_poission.cpp                | 0758475    |
-|            |                |                                |            |
+| 14.10.2024 | 11             | 11_wave_equation_1.cpp         | 9bd1bb1    |
+| 14.10.2024 | 12             | 12_wave_equation_2.cpp         | bfe3d98    |
 |            |                |                                |            |
 |            |                |                                |            |
