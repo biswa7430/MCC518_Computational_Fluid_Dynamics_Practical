@@ -19,5 +19,5 @@
 | 30.09.2024 | 10             | 10_poission.cpp                | 0758475    |
 | 14.10.2024 | 11             | 11_wave_equation_1.cpp         | 9bd1bb1    |
 | 14.10.2024 | 12             | 12_wave_equation_2.cpp         | bfe3d98    |
-|            |                |                                |            |
+| 21.10.2024 | 13             | 13_fimite _volume_method.cpp   | e0ddae4    |
 |            |                |                                |            |
